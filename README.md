@@ -1,17 +1,26 @@
-## 👋 Hi, I'm Alexander
+<div align="center">
 
-Passionate 20-year-old developer from Bulgaria 🚀  
-Focused on internet privacy and end-to-end connections.
+## Hello, there 👋
+Alexander | 20 | Developer | Quality Assurance Engineer | Cybersecurity Enthusiast 
+
+Dedicated personal website is coming soon. 
+
+![cover image](https://i.pinimg.com/564x/ea/9b/30/ea9b30b47a4d50978489e7ffdf4fd835.jpg)  
 
 ### 💻 Skills
-- **Languages:** Python, JavaScript, TypeScript, C, C++
-- **Frameworks/Libraries:** React, Flask, Express.js, Node.js, Socket.io
-- **Frontend:** Bootstrap, TailwindCSS, PicoCSS
-- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-- **Tools:** Git, GitHub
+**Languages:** C, C++, Python, JavaScript, TypeScript, Java
+
+**Frameworks/Libraries:** React, Flask, Express
+
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite
+
+**Tools:** XCode, Git, VSCode
 
 ### 🌱 Currently Learning
-- Operating systems
-- Deepening C++ concepts
-- Improving Frontend Design
-- Cybersecurity
+Operating systems
+
+Deepening C++ concepts (OOP and using third-party libraries)
+
+Cybersecurity & CTFs
+
+</div>
