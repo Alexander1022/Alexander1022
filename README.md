@@ -1,9 +1,9 @@
 <div align="center">
 
 ## Hello, there 👋
-Alexander | 20 | Developer | Quality Assurance Engineer | Cybersecurity Enthusiast 
+Alexander | 21 | Developer | Quality Assurance Engineer | Cybersecurity Enthusiast 
 
-Dedicated personal website is coming soon. 
+[See the garden](https://alexander-garden.me/)
 
 ![cover image](https://i.pinimg.com/564x/ea/9b/30/ea9b30b47a4d50978489e7ffdf4fd835.jpg)  
 
