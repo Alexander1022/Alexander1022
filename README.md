@@ -1,26 +1,15 @@
 <div align="center">
 
-## Hello, there 👋
-Alexander | 21 | Developer | Quality Assurance Engineer | Cybersecurity Enthusiast 
+## Hello, Здрасти, Γειά σου or こんにちは
 
-[See the garden](https://alexander-garden.me/)
+My name is Alexander. I am 21. I love being curious and finding bugs and security vulnerabilities in every nook and cranny.
 
-![cover image](https://i.pinimg.com/564x/ea/9b/30/ea9b30b47a4d50978489e7ffdf4fd835.jpg)  
+I study Applied Informatics at New Bulgarian Universitiy.
 
-### 💻 Skills
-**Languages:** C, C++, Python, JavaScript, TypeScript, Java
+I am currently working as a Automation Quality Assurance. 
 
-**Frameworks/Libraries:** React, Flask, Express
+Love playing CTFs and reading security analysis in my space time. Currently getting into reverse engineering.
 
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-
-**Tools:** XCode, Git, VSCode
-
-### 🌱 Currently Learning
-Operating systems
-
-Deepening C++ concepts (OOP and using third-party libraries)
-
-Cybersecurity & CTFs
+Btw I have a [personal webiste](https://alexander-garden.me/) where you can see all my projects and interests. There are some blogs too. 👀
 
 </div>
