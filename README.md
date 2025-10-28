@@ -2,7 +2,10 @@
 
 ## Hello, Здрасти, Γειά σου or こんにちは
 
-My name is Alexander. I am 21. I love being curious and finding bugs and security vulnerabilities in every nook and cranny.
+<img src="./background.webp" style="height:360px;"/>
+<hr />
+
+My name is Alexander. I am 22. I love being curious and finding bugs and security vulnerabilities in every nook and cranny.
 
 I study Applied Informatics at New Bulgarian Universitiy.
 
