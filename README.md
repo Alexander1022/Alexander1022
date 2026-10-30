@@ -1,11 +1,15 @@
 <div align="center">
 
-## Alexander
+# Alexander
 
-Automation QA Engineer · Applied Informatics student at New Bulgarian University
+Developer · Automation Engineer · Security Enthusiast
 
-Interested in privacy, open-source, and automation.
+I like building things, taking them apart,
+and figuring out what happens in between.
 
-[alexander-garden.me](https://alexander-garden.me/) - projects, interests & occasional writing.
+Mostly interested in privacy, open-source,
+automation, and the occasional rabbit hole.
+
+[my little corner of the internet ↗](https://alexander-garden.me/)
 
 </div>
